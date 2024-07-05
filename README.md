@@ -25,30 +25,3 @@
   Soy un desarrollador web con una gran pasión por aprender y aplicar nuevas tecnologías. Recientemente completé mi grado superior en Desarrollo Web y desde entonces he estado perfeccionando mis habilidades mediante la programación diaria y la participación en proyectos desafiantes.
 </p>
 
-<!-- Habilidades -->
-<h2>Habilidades</h2>
-<ul>
-  <li><b>Lenguajes de programación:</b> PHP, JavaScript, HTML, CSS</li>
-  <li><b>Frameworks y librerías:</b> Laravel, React</li>
-  <li><b>Bases de datos:</b> MySQL, PostgreSQL</li>
-  <li><b>Herramientas y plataformas:</b> Git, Docker, Linux</li>
-</ul>
-
-<!-- Proyectos destacados -->
-<h2>Proyectos destacados</h2>
-<ul>
-  <li><a href="https://github.com/tu-usuario/tu-proyecto-1" target="_blank">Proyecto 1</a>: Breve descripción del proyecto.</li>
-  <li><a href="https://github.com/tu-usuario/tu-proyecto-2" target="_blank">Proyecto 2</a>: Breve descripción del proyecto.</li>
-  <li><a href="https://github.com/tu-usuario/tu-proyecto-3" target="_blank">Proyecto 3</a>: Breve descripción del proyecto.</li>
-</ul>
-
-<!-- Contacto -->
-<h2>Contacto</h2>
-<p>
-  Si estás interesado en colaborar o simplemente quieres saludar, no dudes en contactarme a través de mis redes sociales o enviándome un correo electrónico.
-</p>
-
-<!-- Imagen de fondo -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Bienvenido+a+mi+GitHub+Personal!" alt="Bienvenido a mi GitHub Personal">
-</p>
