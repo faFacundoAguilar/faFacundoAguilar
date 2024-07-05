@@ -3,7 +3,7 @@
 
 <!-- Descripción breve -->
 <p align="center">
-  Desarrollador web apasionado por crear soluciones innovadoras y eficientes. 🚀
+ Functional and Responsive Web Developer. 🚀
 </p>
 <!-- medios comunicacion  -->
 <!-- Medios de Comunicación -->
