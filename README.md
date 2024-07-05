@@ -8,10 +8,10 @@
 </p>
 <!-- Medios de Comunicación -->
 <div align="center" id="badges">
- <a href="mailto:kourtneylee1611@gmail.com" target="_blank">
+ <a href="mailto:facuaguilarm@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://www.linkedin.com/in/kuo-hsiu-lee-5928b9a6/" target="_blank">
+<a href="https://www.linkedin.com/in/facundo-aguilar-014265261/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
