@@ -7,20 +7,15 @@
 </p>
 <!-- Medios de Comunicación -->
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/facundo-aguilar-014265261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="mailto:hskolhe666@gmail.com">
+ <a href="https://www.linkedin.com/in/facundo-aguilar-014265261/">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+<a href="mailto:facuam25@gmail.com">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
-
- 
-  <a href="mailto:facuam25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
-
+ 
 
 
 
