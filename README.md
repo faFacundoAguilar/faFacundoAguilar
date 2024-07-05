@@ -1,7 +1,8 @@
 <!-- Encabezado principal -->
+<h1 align="center">
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Hrugved😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
+</h1>
 
 <!-- Descripción breve -->
 <p align="center">
