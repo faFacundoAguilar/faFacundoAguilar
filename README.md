@@ -5,8 +5,7 @@
 </h1>
 
 <!-- Descripción breve -->
-<p align="center">
- Functional and Responsive  🚀
+  <p align="center">- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>  🚀
 </p>
 <!-- Medios de Comunicación -->
 <div align="center" id="badges">
