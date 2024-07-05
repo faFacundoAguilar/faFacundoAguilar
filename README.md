@@ -17,90 +17,39 @@
 </p>
 </div>
 
-<p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
-</p>
-
-
-## Connect with me:
 <p align="left">
-  <a href="https://www.javascript.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
-      alt="JavaScript" height="30" width="40" /></a>
-  <a href="https://reactjs.org/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
-      alt="React" height="30" width="40" /></a>
-  <a href="https://www.php.net/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"
-      alt="PHP" height="30" width="40" /></a>
-  <a href="https://www.mysql.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"
-      alt="SQL" height="30" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"
-      alt="CSS" height="30" width="40" /></a>
-  <a href="https://www.mongodb.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"
-      alt="MongoDB" height="30" width="40" /></a>
-  <a href="https://tailwindcss.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"
-      alt="TailwindCSS" height="30" width="40" /></a>
+  <a> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?logo=php&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?logo=sqlite&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS%20-%2306B6D4.svg?logo=tailwindcss&logoColor=white"/>
+  </a>
 </p>
+
+
+
+
 
 
 
