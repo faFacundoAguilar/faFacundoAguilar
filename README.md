@@ -28,8 +28,6 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="height: 30px;"/>
       <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge" style="height: 30px;"/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" style="height: 30px;"/>
-     
-    </div>
   </div>
 
   <!-- Frameworks & Libraries Section -->
