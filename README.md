@@ -54,14 +54,22 @@
   </div>
 
   <!-- Tools Section -->
-  <div style="text-align: center;">
-    <h3>🧩 Tools</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height: 30px;"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="height: 30px;"/>
-      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack Badge" style="height: 30px;"/>
-    </div>
+<div style="text-align: center;">
+  <h3>🧩 Tools</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <!-- Git -->
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height: 30px;"/>
+    <!-- Figma -->
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" style="height: 30px;"/>
+    <!-- Visual Studio Code -->
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge" style="height: 30px;"/>
+    <!-- Jira -->
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" style="height: 30px;"/>
+    <!-- CapCut -->
+    <img src="https://img.shields.io/badge/CapCut-F3D7A2?style=for-the-badge&logo=capcut&logoColor=black" alt="CapCut Badge" style="height: 30px;"/>
   </div>
+</div>
+
 
 </div>
 
