@@ -16,7 +16,7 @@
 </div>
 
 <!--LENGUAJES-->
-## 🚀 Technologies & Tools
+<h2 align="center">🚀 Technologies & Tools</h2> 
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
