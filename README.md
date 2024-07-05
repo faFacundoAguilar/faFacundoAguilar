@@ -7,8 +7,8 @@
 </p>
 
 <!-- medios comunicacion  -->
-<p align="center">
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    
-  </a>
-</p>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
+</div>
