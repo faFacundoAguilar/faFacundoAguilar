@@ -3,7 +3,7 @@
 
 <!-- Descripción breve -->
 <p align="center">
- Functional and Responsive Web Developer. 🚀
+ Functional and Responsive  🚀
 </p>
 <!-- Medios de Comunicación -->
 <div align="center" id="badges">
