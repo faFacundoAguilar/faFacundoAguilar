@@ -4,7 +4,7 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 </h1>
 <!-- Descripción breve -->
-  <p align="center">- <i>Software Developer .-</i></p>  
+  <p align="center">- <i>Welcome .-</i></p>  
 </p>
 <!-- Medios de Comunicación -->
 <div align="center" id="badges">
