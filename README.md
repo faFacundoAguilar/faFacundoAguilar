@@ -6,9 +6,9 @@
   Desarrollador web apasionado por crear soluciones innovadoras y eficientes. 🚀
 </p>
 
-<!-- Lenguajes -->
+<!-- medios comunicacion  -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,react,tailwind,php" />
+  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    
   </a>
 </p>
