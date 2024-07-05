@@ -1,6 +1,5 @@
 <!-- Encabezado principal -->
-<h1 align="center">
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Welcome </h1>
+<h1 align="center"> Welcome </h1>
 
 <!-- Descripción breve -->
   <p align="center">- <i>Software Developer .-</i></p>  
