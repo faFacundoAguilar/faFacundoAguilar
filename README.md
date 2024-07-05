@@ -1,8 +1,7 @@
 <!-- Encabezado principal -->
 <h1 align="center">
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Welcome <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<hr style="height:2px;border-width:1;border-radius: 2px;color:gray;background-color:#8080ff">
-</h1>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Welcome </h1>
+
 <!-- Descripción breve -->
   <p align="center">- <i>Software Developer .-</i></p>  
 </p>
