@@ -79,18 +79,27 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+  <a href="https://www.javascript.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"
+      alt="JavaScript" height="30" width="40" /></a>
+  <a href="https://reactjs.org/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
+      alt="React" height="30" width="40" /></a>
+  <a href="https://www.php.net/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"
+      alt="PHP" height="30" width="40" /></a>
+  <a href="https://www.mysql.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"
+      alt="SQL" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"
+      alt="CSS" height="30" width="40" /></a>
+  <a href="https://www.mongodb.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"
+      alt="MongoDB" height="30" width="40" /></a>
+  <a href="https://tailwindcss.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"
+      alt="TailwindCSS" height="30" width="40" /></a>
 </p>
 
 
