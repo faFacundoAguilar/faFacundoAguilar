@@ -17,7 +17,7 @@
 </p>
 </div>
 
-<p align="left">
+<p align="center">
   <a> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a> 
