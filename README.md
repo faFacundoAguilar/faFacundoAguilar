@@ -1,5 +1,5 @@
 <!-- Encabezado principal -->
-<h1 align="center"> Welcome </h1>
+<h1 align="center"> Welcome.</h1>
 
 <!-- Descripción breve -->
   <p align="center">- <i>Software Developer .-</i></p>  
