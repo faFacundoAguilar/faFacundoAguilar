@@ -14,6 +14,7 @@
 </a>
 </p>
 </div>
+<h1 align="center"> Technologies </h1>
 
 <p align="center">
   <a> 
