@@ -22,6 +22,10 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a> 
   &emsp;
+  <a>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=nodedotjs&logoColor=white"/>
+  </a>
+    &emsp;
   <a> 
     <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black">
   </a> 
