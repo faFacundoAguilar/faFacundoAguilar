@@ -1,6 +1,6 @@
 <!-- Descripción breve -->
 <h1 align="center">Facundo Aguilar</h1>
-<p align="center"><i>Desarrollador Web | UI/UX | Frontend & Diseño Creativo</i></p>
+<p align="center"><i>Desarrollador Web </i></p>
 <!-- Medios de Comunicación -->
 <div align="center" id="badges">
  <a href="mailto:facuaguilarm@gmail.com" target="_blank">
